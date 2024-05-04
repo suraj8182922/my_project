@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/onlingeb/public_html/
+    - export DEPLOYPATH=/home/nexasozi/public_html/
     - /bin/cp $DEPLOYPATH
